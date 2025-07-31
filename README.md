@@ -1,4 +1,4 @@
-**Project Description**
+****Project Description****
 This project showcases two essential data processing tasks executed within a single Google Colab notebook — combining the power of Big Data and Computer Vision using Python.
 
 ***Task 1***: Word Frequency Analysis using PySpark
